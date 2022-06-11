@@ -7,3 +7,4 @@ Customer saw bike sharing in use in NYC and wanted to evaluate the NYC model to 
 
 
 ## Summary
+![C89A1BCA-CFBF-4F18-AEFB-234A86ED4F51_1_201_a](https://user-images.githubusercontent.com/98991575/173207412-28e4b8d2-f4b5-4f69-b524-5d953127ddde.jpeg)
