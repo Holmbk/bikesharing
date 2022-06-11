@@ -9,6 +9,12 @@ Customer saw bike sharing in use in NYC and wanted to evaluate the NYC model to 
 
 ![26C1A4FB-E78A-435F-9A81-831F2AC9F918_1_201_a](https://user-images.githubusercontent.com/98991575/173207557-9390a3b8-f84c-475f-b2da-416f8764b279.jpeg)
 
+![0A1F4A55-983C-48FE-B539-F469ED524659_1_201_a](https://user-images.githubusercontent.com/98991575/173207670-11208eed-1bcc-41fe-b8e2-073189ad16c6.jpeg)
+
+![C89A1BCA-CFBF-4F18-AEFB-234A86ED4F51_1_201_a](https://user-images.githubusercontent.com/98991575/173207412-28e4b8d2-f4b5-4f69-b524-5d953127ddde.jpeg)
+
+![306779AD-7CA2-45F2-B2E3-FE7D0F89F389_1_201_a](https://user-images.githubusercontent.com/98991575/173207722-6209d982-b1a1-4b32-b06c-6ad2f67b7878.jpeg)
+
 
 ## Summary
-![C89A1BCA-CFBF-4F18-AEFB-234A86ED4F51_1_201_a](https://user-images.githubusercontent.com/98991575/173207412-28e4b8d2-f4b5-4f69-b524-5d953127ddde.jpeg)
+
