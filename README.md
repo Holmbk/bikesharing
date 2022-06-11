@@ -1,7 +1,7 @@
 # bikesharing
 Looking at NYC bike sharing to apply to Des Moines. 
 ## Overview
-Customer saw bike sharing in use in NYC and wanted to evaluate the NYC model to see if bike sharing could be used in Des Moines.
+Customer saw bike sharing in use in NYC and wanted to evaluate the NYC model to see if bike sharing could be used in Des Moines. Software used was Python and Tableau.  The data was imported and the Tripduration datatype was adjusted from an interger to a datetime datatype using Python.  Tahleau was used to create all of the charts to tell the story of the NYC model Data.
 ## Results
 [link to dashboard](https://public.tableau.com/app/profile/kurt.holmberg/viz/StoryofBikeUsageinNYC/Story1?publish=yes)
 
