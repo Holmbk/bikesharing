@@ -2,11 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
-201908-citibike-tripdata.csv
-bike_reduced.csv
+
 # C extensions
 *.so
-
+201908-citibike-tripdata.csv
+bike_reduced.csv
 # Distribution / packaging
 .Python
 build/
