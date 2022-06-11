@@ -5,6 +5,8 @@ Customer saw bike sharing in use in NYC and wanted to evaluate the NYC model to 
 ## Results
 [link to dashboard](https://public.tableau.com/app/profile/kurt.holmberg/viz/StoryofBikeUsageinNYC/Story1?publish=yes)
 
+![882D5559-E155-4D35-8BD0-26E4397AB392_1_201_a](https://user-images.githubusercontent.com/98991575/173207487-9774cbce-2daa-4bd2-a829-0129ff1a67ab.jpeg)
+
 
 ## Summary
 ![C89A1BCA-CFBF-4F18-AEFB-234A86ED4F51_1_201_a](https://user-images.githubusercontent.com/98991575/173207412-28e4b8d2-f4b5-4f69-b524-5d953127ddde.jpeg)
